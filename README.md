@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @sin1me
+- 👀 I’m interested in front end 
+- 🌱 I’m currently learning java script and python
